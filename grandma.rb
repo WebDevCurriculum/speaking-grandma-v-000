@@ -14,5 +14,5 @@ elsif string == string.uppercase
 # 'I LOVE YOU TOO PUMPKIN!'
   elsif string == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
-    
+  end 
 end
