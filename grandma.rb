@@ -6,10 +6,9 @@ def speak_to_grandma(string)
   elsif string.downcase
     return "HUH?! SPEAK UP, SONNY!"
 
-  elsif string.uppercase
+  else string.uppercase
     return "NO, NOT SINCE 1938!"
-  else string === "I LOVE YOU GRANDMA!"
-      return "I LOVE YOU TOO PUMPKIN!"
+  
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 # If you shout, she can hear you (or at least she thinks so)
