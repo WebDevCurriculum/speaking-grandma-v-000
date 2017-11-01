@@ -7,7 +7,7 @@ def speak_to_grandma(string)
     return "HUH?! SPEAK UP, SONNY!"
   else string.upcase
     return "NO, NOT SINCE 1938!"
-  
+
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 # If you shout, she can hear you (or at least she thinks so)
