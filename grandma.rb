@@ -3,6 +3,8 @@ def speak_to_grandma(string)
 # Whatever you say to grandma, she should respond with
   if string === "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
+  elsif string.downcase
+    return "HUH?! SPEAK UP, SONNY!"
   elsif string.upcase
     return "NO, NOT SINCE 1938!"
   elsif string.downcase
