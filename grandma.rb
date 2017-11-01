@@ -6,7 +6,7 @@ def speak_to_grandma(string)
   elsif string.downcase
     return "HUH?! SPEAK UP, SONNY!"
 
-  else string.uppercase
+  else 
     return "NO, NOT SINCE 1938!"
 
 # HUH?! SPEAK UP, SONNY!
