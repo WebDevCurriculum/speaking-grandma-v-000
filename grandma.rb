@@ -11,7 +11,7 @@ def speak_to_grandma(string)
 # and yells back
 # NO, NOT SINCE 1938!
 elsif string == string.upcase
-  puts "NO, NOT SINCE 1938!"
+  return "NO, NOT SINCE 1938!"
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
